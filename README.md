@@ -1,4 +1,6 @@
-# Unreal Texture Power of Two Checker
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# Unreal Texture Power of Two Checker 
 # ue-2d-texture-dimension-validator
 This script checks whether the selected textures in Unreal Engine have dimensions that are power of two.
 
